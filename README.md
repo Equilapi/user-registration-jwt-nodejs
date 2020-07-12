@@ -1,4 +1,4 @@
-# user-registration-jwt-nodejs
+# User Registration JWT NodeJS
 
 Hey friends! After much research by different blogs I was able to do a project with nodejs and jwt where I can register a user and also grant him a token to consume a top secret service.
 
